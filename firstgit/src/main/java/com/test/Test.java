@@ -7,7 +7,7 @@ public class Test {
      System.out.println("extra code...");
 	System.out.println("3rd sop...");
 		for(int i=1;i<=10;i++){
-			System.out.println(i...);
+			System.out.println(i);
 		}
 		System.out.println("end of first git");
 	}
