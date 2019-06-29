@@ -1,6 +1,6 @@
 package com.test;
 
-public class Test {
+public class Test extends Exception {
 
 	public static void main(String[] args) {
      System.out.println("testing...");
