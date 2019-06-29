@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("end of first git");
 	}
 	//added comment..
+	//added another comment from sts into child 
 
 
 }
