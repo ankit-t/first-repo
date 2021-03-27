@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class Test {
-
+	// some code from git 
 	public static void main(String[] args) throws Exception {
 		String driver="oracle.jdbc.OracleDriver";
 		String jdbc_url="jdbc:oracle:thin:@localhost:1521:XE";
