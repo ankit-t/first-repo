@@ -14,6 +14,7 @@ public class Test {
 		String jdbc_url="jdbc:oracle:thin:@localhost:1521:XE";
 		String user="ankit";
 		String pwd="ankit";
+		// added new change from GIt 
 		Class.forName(driver);
 		Connection con = DriverManager.getConnection(jdbc_url,user,pwd);
 		Statement st = con.createStatement();
